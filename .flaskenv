@@ -1,0 +1,2 @@
+FLASK_APP=Flaskkk.py
+FLASK_DEBUG=1
